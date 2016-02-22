@@ -4,4 +4,6 @@
 
 * Γνωριμία με το εργαστηριακό μέρος του μαθήματος ([notebook άσκησης](https://github.com/mixstef/pms-swp-2016/raw/master/unit1/denzel.ipynb)).
 
+* [*Οι λύσεις του 1ου εργαστηρίου*](https://gist.github.com/mixstef/dbe510b526eb8b3ace9d)
+
 Σημείωση: θα χρησιμοποιήσουμε τη γλώσσα προγραμματισμού Python3. Εάν δεν έχετε ευχέρεια με την Python, μπορείτε να βρείτε κάποια βασικά στοιχεία [εδώ](http://di.ionio.gr/~mistral/tp/compilers/lecturedoc/unit1/module1.html). Μπορείτε επίσης να ψάξετε στο web· υπάρχουν εξαιρετικά tutorials on-line!
