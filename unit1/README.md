@@ -6,7 +6,9 @@
 
 * [*Οι λύσεις του 1ου εργαστηρίου*](https://gist.github.com/mixstef/dbe510b526eb8b3ace9d)
 
-* Το σύγγραμμα του μαθήματος: STEFANIDAKIS, M., ANDRONIKOS, T., PAPADAKIS, I., 2016. Open Linked Data and Related Applications. \[ebook\] Athens:Hellenic Academic Libraries Link. Available Online at: [http://hdl.handle.net/11419/1338](http://hdl.handle.net/11419/1338)
+## Το σύγγραμμα του μαθήματος
+
+STEFANIDAKIS, M., ANDRONIKOS, T., PAPADAKIS, I., 2016. Open Linked Data and Related Applications. \[ebook\] Athens:Hellenic Academic Libraries Link. Available Online at: [http://hdl.handle.net/11419/1338](http://hdl.handle.net/11419/1338)
 
 
 

@@ -2,7 +2,7 @@
 
 Από τους απλούς πίνακες (flat tables) στη μορφή EAV (Entity-Attribute-Value).
 
-* [Διαφάνειες](https://github.com/mixstef/pms-swp-2016/raw/master/unit2/unit2.pdf)).
+* [Διαφάνειες](https://github.com/mixstef/pms-swp-2016/raw/master/unit2/unit2.pdf).
 
 * [Notebook άσκησης](https://github.com/mixstef/pms-swp-2016/raw/master/unit2/schedule.ipynb).
 
