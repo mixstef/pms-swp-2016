@@ -14,4 +14,5 @@ STEFANIDAKIS, M., ANDRONIKOS, T., PAPADAKIS, I., 2016. Open Linked Data and Rela
 
 1. [Σημασιολογία και Μεταδεδομένα](https://github.com/mixstef/pms-swp-2016/tree/master/unit1)
 2. [Εισαγωγή στην Οργάνωση των Σημασιολογικών Δεδομένων](https://github.com/mixstef/pms-swp-2016/tree/master/unit2)
+3. [Από το μοντέλο EAV στους γράφους](https://github.com/mixstef/pms-swp-2016/tree/master/unit3)
 
