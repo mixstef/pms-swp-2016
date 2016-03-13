@@ -16,3 +16,5 @@ STEFANIDAKIS, M., ANDRONIKOS, T., PAPADAKIS, I., 2016. Open Linked Data and Rela
 2. [Εισαγωγή στην Οργάνωση των Σημασιολογικών Δεδομένων](https://github.com/mixstef/pms-swp-2016/tree/master/unit2)
 3. [Από το μοντέλο EAV στους γράφους](https://github.com/mixstef/pms-swp-2016/tree/master/unit3)
 4. [Χρησιμοποιώντας Ενιαία Αναγνωριστικά – URIs και IRIs](https://github.com/mixstef/pms-swp-2016/tree/master/unit4)
+5. [Resource Description Framework (RDF)](https://github.com/mixstef/pms-swp-2016/tree/master/unit5)
+

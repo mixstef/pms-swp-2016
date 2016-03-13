@@ -6,4 +6,6 @@
 
 * [Notebook άσκησης](https://github.com/mixstef/pms-swp-2016/blob/master/unit4/schedule2.ipynb) και [υπόδειγμα ωρολογίου προγράμματος](https://github.com/mixstef/pms-swp-2016/blob/master/unit4/schedule-eav.csv).
 
+	* [Οι λύσεις](https://gist.github.com/mixstef/0f5278f4dbc41ff3a025)
+
 * Από το [σύγγραμμα](http://hdl.handle.net/11419/1338) του μαθήματος: *Ενότητες 1.1 έως και 1.7*.
