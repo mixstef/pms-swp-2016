@@ -18,4 +18,5 @@ STEFANIDAKIS, M., ANDRONIKOS, T., PAPADAKIS, I., 2016. Open Linked Data and Rela
 4. [Χρησιμοποιώντας Ενιαία Αναγνωριστικά – URIs και IRIs](https://github.com/mixstef/pms-swp-2016/tree/master/unit4)
 5. [Resource Description Framework (RDF)](https://github.com/mixstef/pms-swp-2016/tree/master/unit5)
 6. [RDF Schema (RDFS)](https://github.com/mixstef/pms-swp-2016/tree/master/unit6)
+7. [Χρήση RDFS και λεξιλογίων RDF](https://github.com/mixstef/pms-swp-2016/tree/master/unit7)
 
