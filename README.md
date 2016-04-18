@@ -20,5 +20,5 @@ STEFANIDAKIS, M., ANDRONIKOS, T., PAPADAKIS, I., 2016. Open Linked Data and Rela
 6. [RDF Schema (RDFS)](https://github.com/mixstef/pms-swp-2016/tree/master/unit6)
 7. [Χρήση RDFS και λεξιλογίων RDF](https://github.com/mixstef/pms-swp-2016/tree/master/unit7)
 8. [Εισαγωγή στη SPARQL – Μέρος Α': Βασική Χρήση](https://github.com/mixstef/pms-swp-2016/tree/master/unit8)
-
+9. [Εισαγωγή στη SPARQL – Μέρος Β': Ερωτήματα σε SPARQL endpoints](https://github.com/mixstef/pms-swp-2016/tree/master/unit9)
 
