@@ -12,13 +12,15 @@ STEFANIDAKIS, M., ANDRONIKOS, T., PAPADAKIS, I., 2016. Open Linked Data and Rela
 
 ## Ενότητες.
 
-1. [Σημασιολογία και Μεταδεδομένα](https://github.com/mixstef/pms-swp-2016/tree/master/unit1)
-2. [Εισαγωγή στην Οργάνωση των Σημασιολογικών Δεδομένων](https://github.com/mixstef/pms-swp-2016/tree/master/unit2)
-3. [Από το μοντέλο EAV στους γράφους](https://github.com/mixstef/pms-swp-2016/tree/master/unit3)
-4. [Χρησιμοποιώντας Ενιαία Αναγνωριστικά – URIs και IRIs](https://github.com/mixstef/pms-swp-2016/tree/master/unit4)
-5. [Resource Description Framework (RDF)](https://github.com/mixstef/pms-swp-2016/tree/master/unit5)
-6. [RDF Schema (RDFS)](https://github.com/mixstef/pms-swp-2016/tree/master/unit6)
-7. [Χρήση RDFS και λεξιλογίων RDF](https://github.com/mixstef/pms-swp-2016/tree/master/unit7)
-8. [Εισαγωγή στη SPARQL – Μέρος Α': Βασική Χρήση](https://github.com/mixstef/pms-swp-2016/tree/master/unit8)
-9. [Εισαγωγή στη SPARQL – Μέρος Β': Ερωτήματα σε SPARQL endpoints](https://github.com/mixstef/pms-swp-2016/tree/master/unit9)
+1. Εισαγωγή
+2. [Σημασιολογία και Μεταδεδομένα](https://github.com/mixstef/pms-swp-2016/tree/master/unit1)
+3. [Εισαγωγή στην Οργάνωση των Σημασιολογικών Δεδομένων](https://github.com/mixstef/pms-swp-2016/tree/master/unit2)
+4. [Από το μοντέλο EAV στους γράφους](https://github.com/mixstef/pms-swp-2016/tree/master/unit3)
+5. [Χρησιμοποιώντας Ενιαία Αναγνωριστικά – URIs και IRIs](https://github.com/mixstef/pms-swp-2016/tree/master/unit4)
+6. [Resource Description Framework (RDF)](https://github.com/mixstef/pms-swp-2016/tree/master/unit5)
+7. [RDF Schema (RDFS)](https://github.com/mixstef/pms-swp-2016/tree/master/unit6)
+8. [Χρήση RDFS και λεξιλογίων RDF](https://github.com/mixstef/pms-swp-2016/tree/master/unit7)
+9. [Εισαγωγή στη SPARQL – Μέρος Α': Βασική Χρήση](https://github.com/mixstef/pms-swp-2016/tree/master/unit8)
+10. [Εισαγωγή στη SPARQL – Μέρος Β': Ερωτήματα σε SPARQL endpoints](https://github.com/mixstef/pms-swp-2016/tree/master/unit9)
+11. [Παρουσίαση 1 (Δ. Τσουμάκος): RDF Triplestores – Μέρος Α'](https://github.com/mixstef/pms-swp-2016/tree/master/presentation1)
 
